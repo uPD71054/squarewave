@@ -1,0 +1,3 @@
+# ignore the following extensions
+*.exe *.png *.wav
+
